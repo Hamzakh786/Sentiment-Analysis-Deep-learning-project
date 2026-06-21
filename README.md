@@ -22,7 +22,7 @@ This project performs sentiment analysis on text data and classifies sentiments 
 - Matplotlib
 
 ## Results
-- Accuracy: XX%
+- Accuracy: 88%
 - Precision, Recall, and F1 Score evaluation
 
 ## How to Run
